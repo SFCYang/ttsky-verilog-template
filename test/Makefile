@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = semaforo.v
+PROJECT_SOURCES = tt_um_lcd_controller_Andres078.v
 
 ifneq ($(GATES),yes)
 
