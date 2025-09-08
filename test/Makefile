@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = tt_um_lcd_controller_Andres078.v
+PROJECT_SOURCES = lcd.v
 
 ifneq ($(GATES),yes)
 
